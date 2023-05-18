@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Material Girl",
+    "artista": "Madonna",
+    "tono": "Do"
+  },
+  {
+    "id": 2,
+    "titulo": "A dios le pido",
+    "artista": "Juanes",
+    "tono": "Em1"
+  },
+  {
+    "id": 3,
+    "titulo": "Hesitate",
+    "artista": "Jonas Brothers",
+    "tono": "Fa2"
+  },
+  {
+    "id": 4,
+    "titulo": "Mariposa Tecnicolor",
+    "artista": "Fito Paez",
+    "tono": "Re1"
+  },
+  {
+    "id": 5040,
+    "titulo": "11 y 6",
+    "artista": "Fito Paez",
+    "tono": "Fam"
+  }
+]
